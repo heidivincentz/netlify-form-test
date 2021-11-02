@@ -1,0 +1,39 @@
+* {
+  font-family: poppins;
+  color: white;
+}
+
+body {
+  background-color: #252525;
+}
+
+#submitbutton {
+  border-radius: 2em;
+  background-color: tomato;
+  padding-left: 2em;
+  padding-right: 2em;
+  color: white;
+  box-shadow: none;
+  border: none;
+  font-size: 1.7em;
+}
+
+input {
+  background-color: ;
+  border-radius: 0.4em;
+}
+
+textarea {
+  background-color: violet;
+  border-radius: 0.4em;
+}
+
+select {
+  border-radius: 0.4em;
+  color: #353535;
+}
+/* 
+option {
+  background-color: chartreuse;
+  border-radius: 0.4em;
+} */
